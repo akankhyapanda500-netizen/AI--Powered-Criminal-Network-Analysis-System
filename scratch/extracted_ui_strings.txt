@@ -1,0 +1,53 @@
+Analysis failed
+Audit logging active
+CASE FILE / 
+CASE MANAGEMENT
+CRIMINAL NETWORK INTELLIGENCE & FIR ANALYSIS SYSTEM
+Cannot render <%s> outside the main document. Try moving it into the root <head> tag.
+Cannot render a <link rel=
+Cannot render a sync or defer <script> outside the main document without knowing its order. Try adding async=
+DOCUMENT PRESERVED
+FIR / DOCUMENT
+FIR DATABASE / SOURCE RECORDS
+FIR Records
+FIR UPLOAD / DOCUMENT PIPELINE
+FIRs by state
+FIRs indexed
+Find previous FIRs mentioning this person.
+Generate a source-linked summary for authorized review. Sensitive exports are logged.
+Historical FIR records
+India case concentration
+Invalid ARIA attribute `%s`. ARIA attributes follow the pattern aria-* and must be lowercase.
+Invalid aria prop %s on <%s> tag. For details, see https://react.dev/link/invalid-aria-props
+Invalid aria props %s on <%s> tag. For details, see https://react.dev/link/invalid-aria-props
+Invalid event handler property `%s`. React events use the camelCase naming convention, for example `onClick`.
+LINKED FIRs
+MAP INTELLIGENCE / AUTHORIZED CASE LOCATIONS
+National command dashboard
+Network Analysis
+Network analysis · case comparison
+New FIR signal
+OCR confidence
+Only documented case locations are shown. No live or inferred location is displayed.
+Original document preserved \xB7 every extracted field requires officer verification
+Paste FIR text here...
+Pending OCR
+Persons appearing across FIRs
+Phones / vehicles
+RELATIONSHIP GRAPH / LEAD-ONLY
+REPORT GENERATION / AUDITED EXPORT
+React encountered a <link rel=
+ReactDOM.preconnect(): Expected the `href` argument (first) to be a non-empty string but encountered %s instead.
+ReactDOM.prefetchDNS(): Expected the `href` argument (first) to be a non-empty string but encountered %s instead.
+ReactDOM.preinit(): Expected the `href` argument (first) to be a non-empty string but encountered %s instead.
+Relationships are documented or algorithmic leads. Verify against source FIRs.
+Search FIR, person, station, district, vehicle...
+Select a case file
+Show cases related to this location.
+Source confidence
+Source: fictional authorized image set \xB7 Case DEMO-
+Summarize this FIR.
+Upload failed
+Upload · assigned records · analysis
+UploadModule
+What similarities exist between Case A and Case B?
